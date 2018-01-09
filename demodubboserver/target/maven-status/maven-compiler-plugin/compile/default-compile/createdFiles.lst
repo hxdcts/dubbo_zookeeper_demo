@@ -1,0 +1,5 @@
+com/mor/server/dubbo/service/TestDemoServiceImpl.class
+com/mor/server/dubbo/service/DemoServer.class
+com/mor/server/dubbo/service/DemoServerImpl.class
+com/mor/server/dubbo/service/IDemoService.class
+com/mor/main/Main.class
